@@ -1,0 +1,15 @@
+1. install.bat
+2. client/install.bat
+3. start.bat
+4. client/start.bat
+
+
+Felhasznalok:
+
+admin: 
+-admin
+-admin
+
+teszt:
+-user1
+-password
